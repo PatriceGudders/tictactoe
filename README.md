@@ -11,7 +11,7 @@ Dit is een eenvoudig **Tic Tac Toe**-spel dat je kunt spelen in je webbrowser. H
 
 ## Voorbeeld
 
-![Voorbeeld](tictactoe/images/screen_tictactoe.png)
+![Voorbeeld](tictacttoe/images/screen_tictactoe.png)
 
 ## Installatie
 
