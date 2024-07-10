@@ -16,4 +16,4 @@ Dit is een eenvoudig **Tic Tac Toe**-spel dat je kunt spelen in je webbrowser. H
 ## Installatie
 
 1. Clone deze repository naar je lokale machine.
-2. Open het bestand `index.html` in je webbrowser.
+2. Open het bestand `home.html` in je webbrowser.
