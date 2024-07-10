@@ -9,6 +9,10 @@ Dit is een eenvoudig **Tic Tac Toe**-spel dat je kunt spelen in je webbrowser. H
 3. Het spel controleert automatisch of er een winnaar is of dat het gelijkspel is.
 4. Je kunt het spel opnieuw starten door op de knop "Opnieuw starten" te klikken.
 
+## Voorbeeld
+
+![Voorbeeld](tictactoe/images/screen_tictactoe.png)
+
 ## Installatie
 
 1. Clone deze repository naar je lokale machine.
